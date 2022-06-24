@@ -1,0 +1,2 @@
+﻿  Q118_Pascal'sTriangle.cpp
+C:\Users\tahmi\VS Projects\repos\C++\Leetcode\Easy\Q118_Pascal'sTriangle\Q118_Pascal'sTriangle\Q118_Pascal'sTriangle.cpp(21,21): error C2400: inline assembler syntax error in 'opcode'; found '['
